@@ -29,6 +29,7 @@ Real-time audio analysis and visualization
 Smooth animations and transitions
 
 📱 Screenshots
+
 ![image](https://github.com/user-attachments/assets/445c761f-41ac-4d66-b27b-481f7510c772)
 ![image](https://github.com/user-attachments/assets/450fe8b7-934b-4ab1-b020-4e7136815d50)
 ![image](https://github.com/user-attachments/assets/96b6bb21-e63a-4ea0-ac75-1d94f5839388)
